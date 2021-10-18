@@ -13,7 +13,7 @@ class TestFunctionality(unittest.TestCase):
         self.assertEqual(ci_course.minimum(1, 2, 3), 1)
         self.assertEqual(ci_course.minimum(1.2, 2.3), 1.2)
         self.assertEqual(ci_course.minimum(-1.2, -3), -3)
-        self.assertEqual(ci_course.minimum('-1','.2', 'Hello'), None)
+        self.assertEqual(ci_course.minimum('-1', '.2', 'Hello'), None)
 
     def test_minimum_non_numbers(self):
         self.assertEqual(ci_course.minimum('1', '3', 'Hello'), None)

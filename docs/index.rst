@@ -10,6 +10,8 @@ Welcome to ci-course's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   quickstart
+
 Hello World
 
 

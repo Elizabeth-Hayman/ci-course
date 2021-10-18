@@ -1,3 +1,5 @@
+[![Run unit tests](https://github.com/Elizabeth-Hayman/ci-course/actions/workflows/unittest.yml/badge.svg)](https://github.com/Elizabeth-Hayman/ci-course/actions/workflows/unittest.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:

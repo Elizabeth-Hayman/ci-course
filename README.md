@@ -1,4 +1,6 @@
 [![Run unit tests](https://github.com/Elizabeth-Hayman/ci-course/actions/workflows/unittest.yml/badge.svg)](https://github.com/Elizabeth-Hayman/ci-course/actions/workflows/unittest.yml)
+[![Run on multiple OS](https://github.com/Elizabeth-Hayman/ci-course/actions/workflows/python-package.yml/badge.svg)](https://github.com/Elizabeth-Hayman/ci-course/actions/workflows/python-package.yml)
+[![BCH compliance](https://bettercodehub.com/edge/badge/Elizabeth-Hayman/ci-course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
